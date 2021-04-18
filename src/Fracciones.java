@@ -17,6 +17,7 @@ public class Fracciones {
         // TODO code application logic here
         Fraccion f1 = new Fraccion(1, 4); 
         Fraccion f2 = new Fraccion(1, 2);
+        Fraccion f3 = new Fraccion(2, 3);
         Fraccion producto = f1.multiplicar(f2);
 
     }
